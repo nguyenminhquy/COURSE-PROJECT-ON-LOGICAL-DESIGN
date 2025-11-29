@@ -1,4 +1,4 @@
-# Web Frontend
+# SmartFarm  Frontend
 
 A React-based frontend application for monitoring IoT sensors, plant management, and real-time analytics in an embedded system.
 
