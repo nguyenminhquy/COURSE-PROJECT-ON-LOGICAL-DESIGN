@@ -1,5 +1,5 @@
 COURSE-PROJECT-ON-LOGICAL-DESIGN
-Ứng dụng SmartFarm (frontend React + backend Express/Firebase Functions) giám sát và phân tích dữ liệu cảm biến, AI dự đoán ngắn hạn và tư vấn canh tác.
+Ứng dụng SmartFarm (frontend React + backend Express) giám sát và phân tích dữ liệu cảm biến, AI dự đoán ngắn hạn và tư vấn canh tác.
 
 1. Yêu cầu
 Node.js 18+ (backend đang đặt engines 22, khuyến nghị Node 20/22).
